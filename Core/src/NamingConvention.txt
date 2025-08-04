@@ -1,0 +1,5 @@
+Class and Interfaces - first letter is capital - Calc,Human,Runnable
+Variables and Methods - all small letters - age,name,show()
+Constants - all capital letters - PIE,BRAND
+For multipe letter words use camel casing - MyData,showMyMarks()
+Constants with multiple words use underscore - MY_DATA

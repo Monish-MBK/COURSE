@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Hibernate_Course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate_Course/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate_Practice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Junit-Mockito/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mapper_Validation_Pagination/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroServices/API-Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroServices/Question-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroServices/Quiz-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroServices/Service-Registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/QuizApp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SOAP-Webservices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpingDemo/src/main/Resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpingDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringAI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootWeb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringJDBCDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring_Data_JPA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring_Ecom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring_Security_Demo/src/main/java" charset="UTF-8" />
+  </component>
+</project>

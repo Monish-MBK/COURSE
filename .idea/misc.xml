@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/QuizApp/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringAI/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/SpingDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_Ecom/pom.xml" />
+        <option value="$PROJECT_DIR$/Junit-Mockito/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroServices/API-Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroServices/Quiz-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroServices/Question-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroServices/Service-Registry/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringJDBCDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_Data_JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernate_Course/pom.xml" />
+        <option value="$PROJECT_DIR$/SOAP-Webservices/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernate_Practice/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_Security_Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Mapper_Validation_Pagination/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
