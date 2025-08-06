@@ -1,0 +1,9 @@
+Before using JWT we need to add some dependencies
+1.jjwt:impl
+2.jjwt:api
+3.jjwt:extention:jackson
+
+Next we need to generate a secret key for which we are creating a class inside test folder
+once we have a secret key, we need to generate a token
+
+create a class jwtservice and add secret key as a static final variable inside the class and crete a function to generate a token
